@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante a \"Next level week\" 01/06/2020 a 05/06/2020.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSeijiM/Projeto_Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "César Seiji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSeijiM/Projeto_Ecoleta/issues"
+  },
+  "homepage": "https://github.com/CSeijiM/Projeto_Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
